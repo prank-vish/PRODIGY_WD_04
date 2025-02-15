@@ -34,7 +34,7 @@ export default function Navbar() {
                         Contact
                     </li>
                 </a>
-                <a href="/PRODIGY_WD_04/my_resume.pdf" download="my_resume.pdf"><li className='text-md transition-all duration-300 p-1 md:p-0'>
+                <a href="https://prank-vish.github.io/PRODIGY_WD_04/my_resume.pdf" download="my_resume.pdf"><li className='text-md transition-all duration-300 p-1 md:p-0'>
                     Resume
                 </li></a>
 
