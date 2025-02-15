@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/PRODIGY_WB_04/',
+  base: '/PRODIGY_WD_04/',
 })
